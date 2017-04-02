@@ -1,0 +1,29 @@
+body{font-family: 'Indie Flower', cursive;font-size: 16px;}
+label{line-height: 28px;}
+img{max-width: 100%;}
+p,li{font-size: 20px;;}
+p,footer{font-family: 'Josefin Sans', sans-serif;}
+.clearfix{clear: both;}
+.content_wrapper{margin: 0 auto;float: none;padding: 70px 0;}
+.margin-top-10{margin-top: 10px;}
+.margin-top-15{margin-top: 15px;}
+.margin-top-20{margin-top: 20px;}
+.margin_auto{margin: 0 auto;}
+header,footer{background: #51A351;}
+.logo h4{font-size: 32px;font-weight: bold;color:#fff;}
+.container{width: 1200px;margin: 0 auto;}
+ul.nav{list-style-type: none;}
+.nav > li{padding: 0;margin: 0;display: inline-block;}
+.nav li a{padding: 13px 20px;color: #fff;font-size: 20px;font-weight: bold;}
+.nav li a:hover{color: #51A351;}
+.grey-bg{background: #EEEEEE;}
+#about{padding: 90px 0;}
+.btn{font-size: 18px;padding: 10px 25px;margin-top: 15px;}
+.profile_img{width: 400px;transform: rotate(-12deg);-moz-transform: rotate(-12deg);-webkit-transform: rotate(-12deg);border: 3px solid #fff;; }
+h1{font-size: 48px;font-weight: bold;}
+h2{margin: 20px 0;}
+.list-text{list-style-type: none;font-family: 'Josefin Sans', sans-serif;margin: 20px 0;padding: 0;}
+.list-text li{margin: 15px 0;}
+.list-text li:before{width: 12px;height: 12px;content: "\f0a4";font-family: "FontAwesome";margin-right: 10px;font-size: 14px;}
+.loader{/*position: absolute;*/left: 0;right: 0;top: 40%;margin: 0 auto;text-align: center;display: none;}
+footer{color: #fff;padding: 10px 0;}
