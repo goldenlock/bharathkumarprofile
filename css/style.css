@@ -19,7 +19,7 @@ ul.nav{list-style-type: none;}
 .grey-bg{background: #EEEEEE;}
 #about{padding: 90px 0;}
 .btn{font-size: 18px;padding: 10px 25px;margin-top: 15px;}
-.profile_img{width: 400px;transform: rotate(-12deg);-moz-transform: rotate(-12deg);-webkit-transform: rotate(-12deg);border: 0px solid #fff;; }
+.profile_img{width: 300px;transform: rotate(-12deg);-moz-transform: rotate(-12deg);-webkit-transform: rotate(-12deg);border: 0px solid #fff;; }
 h1{font-size: 48px;font-weight: bold;}
 h2{margin: 20px 0;}
 .list-text{list-style-type: none;font-family: 'Josefin Sans', sans-serif;margin: 20px 0;padding: 0;}
