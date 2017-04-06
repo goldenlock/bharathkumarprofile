@@ -1,6 +1,6 @@
 body{font-family: 'Indie Flower', cursive;font-size: 16px;}
 label{line-height: 28px;}
-img{max-width: 100%;}
+img{max-width: 80%;}
 p,li{font-size: 20px;;}
 p,footer{font-family: 'Josefin Sans', sans-serif;}
 .clearfix{clear: both;}
@@ -17,6 +17,25 @@ ul.nav{list-style-type: none;}
 .nav li a{padding: 13px 20px;color: #fff;font-size: 20px;font-weight: bold;}
 .nav li a:hover{color: #51A351;}
 .grey-bg{background: #EEEEEE;}
+
+
+.custombox:hover{
+box-shadow: 0 15px 15px 0 rgba(0, 0, 0, 0.2), 0 20px 20px 0 rgba(0, 0, 0, 0.19);
+position:relative;
+z-index:1;
+ transition: box-shadow 0.5s ease-in-out;
+}
+.custombox1:hover{
+   
+box-shadow: 0 20px 20px 0  rgba(0, 0, 0, 0.2), 0 10px 10px 0 rgba(0, 0, 0, 0.19);
+position:relative;
+z-index:1;    
+ transition: box-shadow 0.5s ease-in-out;
+ 
+}
+.projectsimage{
+    width: 300px;
+}
 #about{padding: 90px 0;}
 .btn{font-size: 18px;padding: 10px 25px;margin-top: 15px;}
 .profile_img{ padding-left: 30px; width: 300px;transform: rotate(-12deg);-moz-transform: rotate(-12deg);-webkit-transform: rotate(-12deg);border: 0px solid #fff;; }
